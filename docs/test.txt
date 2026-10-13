@@ -1,0 +1,7 @@
+Milvus 是一个开源的向量数据库，专为大规模向量相似度搜索设计。
+它支持十亿级向量存储，并提供毫秒级的查询响应。
+Milvus 采用存算分离架构，底层存储可对接 MinIO、S3 等对象存储。
+LangGraph 是一个用于构建有状态、多参与者应用的框架，基于 LangChain。
+它通过状态图（StateGraph）来编排 Agent 的工作流，适合复杂的多轮对话场景。
+FastAPI 是一个现代、高性能的 Python Web 框架，基于 Starlette 和 Pydantic。
+它天然支持异步编程，并自动生成 OpenAPI 文档。
